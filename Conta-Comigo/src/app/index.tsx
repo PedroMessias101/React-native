@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
     quizDescription: {
         fontSize: 14,
         color: "#666",
-        flexWrap: "wrap" // Quebra o texto para a linha de baixo case o texto for muito grande
+        flexWrap: "wrap" // Quebra o texto para a linha de baixo caso o texto for muito grande
     }
 
 })
